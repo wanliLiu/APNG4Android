@@ -21,6 +21,12 @@ public class APNGLibActivity extends Activity {
         setContentView(R.layout.activity_apnglib);
         LinearLayout linearLayout = findViewById(R.id.layout);
         String[] assetFiles = {
+                "emoji_a.png",
+                "emoji_b.png",
+                "emoji_c.png",
+                "emoji_d.png",
+                "emoji_e.png",
+                "emoji_f.png",
                 "test.png",
                 "test2.png",
                 "test3.png",
